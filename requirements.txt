@@ -1,0 +1,9 @@
+torch>=2.2
+tiktoken>=0.5
+matplotlib>=3.7
+tqdm>=4.66
+numpy>=1.26
+pandas>=2.2
+psutil>=5.9
+
+
